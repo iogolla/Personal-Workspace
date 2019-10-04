@@ -1,4 +1,4 @@
-// File      : mutli_sort.c
+// File      : digital_display.c
 // Purpose   : Prompts the user for a number and then displays the number
 //             using characters to simulate the effect of a 7-segment display
 // Written by: Ian Ogolla
