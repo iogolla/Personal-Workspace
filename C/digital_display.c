@@ -88,15 +88,15 @@ void process_digit(int digit, int position)
                 
                 case 0: digits[0][1+maxcolumn]='_'; //put an underbar
                 break;
-                case 1: digits[1][2+maxcolumn]='|'; //put a horizontal underbar
+                case 1: digits[1][2+maxcolumn]='|'; //put a vertical underbar
                 break;
-                case 2: digits[2][2+maxcolumn]='|'; //put a horizontal underbar
+                case 2: digits[2][2+maxcolumn]='|'; //put a vertical underbar
                 break;
                 case 3: digits[2][1+maxcolumn]='_'; //put an underbar
                 break;
-                case 4: digits[2][0+maxcolumn]='|'; //put a horizontal underbar
+                case 4: digits[2][0+maxcolumn]='|'; //put a vertical underbar
                 break;
-                case 5: digits[1][0+maxcolumn]='|'; //put a horizontal underbar
+                case 5: digits[1][0+maxcolumn]='|'; //put a vertical underbar
                 break;
                 case 6: digits[1][1+maxcolumn]='_'; //put an underbar
                 break;
